@@ -1,0 +1,2 @@
+# Akamkurdish
+Fast tool
